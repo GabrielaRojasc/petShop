@@ -9,3 +9,6 @@
 		padding-right: calc((100vw - 900px)/2);
 	}
 }
+@media(min-width: 1400px) {
+}
+
